@@ -1,0 +1,5 @@
+- # sobre mim
+-   👋 ola meu nome e @kathleen20072
+- 👀 meu email de contato e kathleen.cruz@escola.pr.gov.br
+- 🌱 estou interessada em aprender a programar novas linguagem.
+- 📫 eu estou prandendo a progamar recentemente a linguagem de javascript e scratch
